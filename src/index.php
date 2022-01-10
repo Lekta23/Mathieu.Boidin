@@ -4,7 +4,6 @@ echo '<img src="https://www.docker.com/sites/default/files/horizontal.png">';
 
 $prenom = "Mathieu";
 $nom = "Boidin";
-echo "<br>";
 echo $prenom . " " . $nom;
 echo "21 ans";
 echo  " ";
@@ -23,6 +22,7 @@ echo  " ";
 <form action="index.php" method="post">
  <p>Votre nom : <input type="text" name="nom" /></p>
  <p>Votre âge : <input type="text" name="age" /></p>
+ <p>Votre Mail : <input type="text" name="mail" /></p>
  <p><input type="submit" value="OK" name="OK"></p>
 </form>
 
