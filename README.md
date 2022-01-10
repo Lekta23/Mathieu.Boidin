@@ -21,7 +21,6 @@ REPOSITORY                 TAG               IMAGE ID       CREATED          SIZ
 php-test                   latest            be8436ad762b   57 seconds ago   368MB
 ```
 
-
 ## Run the application
 
 ```
