@@ -6,7 +6,7 @@ $prenom = "Mathieu";
 $nom = "Boidin";
 
 echo $prenom . " " . $nom;
-echo "21 ans"
+echo "21 ans "
 ?>
 
 <!DOCTYPE html>
