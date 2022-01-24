@@ -1,3 +1,3 @@
-FROM httpd:7.0-apache
+FROM php:7.0-apache
 COPY src/ /var/www/html
 EXPOSE 80
