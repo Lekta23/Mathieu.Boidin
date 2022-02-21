@@ -1,3 +1,5 @@
+Mathieu B, Clément L, Adrien P
+
 # Puissance 4 en javascript  
 
 Suite aux cours d'apprentissage du javascript d'OpenClassroom, création d'un puissance 4 en javascript.  
