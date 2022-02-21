@@ -1,5 +1,5 @@
 #!/bin/bash
-git pull origin main
+git pull 
 docker-compose build
 docker-compose up -d
 
